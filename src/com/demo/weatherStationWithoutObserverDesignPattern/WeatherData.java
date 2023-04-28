@@ -1,3 +1,5 @@
+package com.demo.weatherStationWithoutObserverDesignPattern;
+
 public class WeatherData {
     private int pressure;
     private int temp;

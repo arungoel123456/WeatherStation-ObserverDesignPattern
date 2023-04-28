@@ -1,3 +1,5 @@
+package com.demo.weatherStationWithoutObserverDesignPattern;
+
 public class StatisticsDisplay {
     public void update(int temp, int humidity, int pressure){
         // logic

@@ -1,3 +1,5 @@
+package com.demo.weatherStationWithoutObserverDesignPattern;
+
 public class WeatherDataService {
     private WeatherData weatherData;
     private CurrentConditionsDisplay currentConditionsDisplay;
