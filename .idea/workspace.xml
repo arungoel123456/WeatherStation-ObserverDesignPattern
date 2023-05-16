@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c7041d-c5ee-44f0-bbfd-6f405f14fdd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherDataService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherDataService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682674684001</updated>
       <workItem from="1682674685391" duration="6549000" />
-      <workItem from="1683135455069" duration="7487000" />
+      <workItem from="1683135455069" duration="10132000" />
     </task>
     <servers />
   </component>
