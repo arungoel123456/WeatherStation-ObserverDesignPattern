@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c7041d-c5ee-44f0-bbfd-6f405f14fdd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithoutObserverDesignPattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithoutObserverDesignPattern/ForecastDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithoutObserverDesignPattern/StatisticsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithoutObserverDesignPattern/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithoutObserverDesignPattern/WeatherDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern/WeatherDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/agoel2/Desktop/WeatherStation-ObserverDesignPattern/src/com/demo/weatherStationWithObserverPattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +54,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/demo/weatherStationWithObserverPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.weatherStationWithObserverPattern" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -74,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682674684001</updated>
-      <workItem from="1682674685391" duration="5145000" />
+      <workItem from="1682674685391" duration="6549000" />
+      <workItem from="1683135455069" duration="7487000" />
     </task>
     <servers />
   </component>
